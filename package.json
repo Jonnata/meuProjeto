@@ -1,0 +1,16 @@
+{
+  "name": "digitalhouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback-iii.js",
+  "scripts": {
+    "start": "nodemon digitalhouse.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
