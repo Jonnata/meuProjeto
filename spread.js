@@ -30,3 +30,5 @@ function letras(...paramns){
     console.log(paramns[2])
 };
 letras("a", "b", "c")
+
+//testando 123
